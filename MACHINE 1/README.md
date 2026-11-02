@@ -146,6 +146,8 @@ Investigated the security implications of the misconfigured SUID-enabled Wget ex
 
 The demonstrated how insecure file permissions and privileged file operations could allow modification of the system's `/etc/passwd` file.
 
+<img width="1784" height="644" alt="Screenshot 2026-10-13 175425" src="https://github.com/user-attachments/assets/d7251552-f758-4d47-82a8-cba701443723" />
+
 This configuration resulted in unauthorized root-level access within the controlled lab environment.
 
 9. Root Access and Flag Discovery
